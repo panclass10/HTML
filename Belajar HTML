@@ -1,7 +1,7 @@
-<!doctype html>
+<!DOCTYAPE html>
 <html>
     <head>
-        <title>hallo HTML</title>
+        <title>hallo panji</title>
     </head>
     <body>
         <h1>Hyper Text Markup Language</h1>
@@ -16,10 +16,17 @@
             <P>4. Title</p>
             <p>5. Body</p>
             <h3>Tag apa saja yang bisa ditambahdi didalam Tag Head dan Body</h3>
-                <h4>Tag Head</p>
+                <h4>Tag Head</h4>
                     <p>1. Judul halam diatara Tag Title</p>
                     <p>2. CSS dengan tag Style</p>
                     <p>3. Javascript denga Style Script</p>
                     <p>4. Metadata dengan Style Meta</p>
+                <h4>Tag Body</h4>
+                    <p>1. Teks</p>
+                    <p>2. Teks Pendukung</p>
+                    <p>3. Gambar</p>
+                    <p>4. Hyperlink</p>
+                    <p>5. List/ Penomoran</p>
+
     </body>
 </html>
