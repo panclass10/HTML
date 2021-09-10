@@ -5,6 +5,15 @@
     </head>
     <body>
         <h1>Hyper Text Markup Language</h1>
-            <p>Pengertian HTML</p>
+            <h3>Pengertian HTML</h3>
+                <p>lorem ipsum dolor</P>
+            <h3>Mengenal Tag pada HTML</h3>
+                <p>Lorem ipsum dolor</p>
+            <h3>Struktur tag dalam HTML</h2>
+            <p>1. DOCTYAPE</p>
+            <p>2. HTML</p>
+            <p>3. Head</p>
+            <P>4. Title</p>
+            <p>5. Body</p>
     </body>
 </html>
