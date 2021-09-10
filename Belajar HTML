@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+    <head>
+        <title>hallo HTML</title>
+    </head>
+    <body>
+        <h1>Hyper Text Markup Language</h1>
+            <p>Pengertian HTML</p>
+    </body>
+</html>
