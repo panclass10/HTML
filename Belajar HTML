@@ -27,6 +27,11 @@
                     <p>3. Gambar</p>
                     <p>4. Hyperlink</p>
                     <p>5. List/ Penomoran</p>
+                    <p>6. Tabel</p>
+                    <p>7. Form</p>
+                    <p>8. Script</p>
+                    <p>9. Object</p>
+                    <10>10. Grouping</p>
 
     </body>
 </html>
