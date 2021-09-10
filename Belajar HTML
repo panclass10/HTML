@@ -15,5 +15,11 @@
             <p>3. Head</p>
             <P>4. Title</p>
             <p>5. Body</p>
+            <h3>Tag apa saja yang bisa ditambahdi didalam Tag Head dan Body</h3>
+                <h4>Tag Head</p>
+                    <p>1. Judul halam diatara Tag Title</p>
+                    <p>2. CSS dengan tag Style</p>
+                    <p>3. Javascript denga Style Script</p>
+                    <p>4. Metadata dengan Style Meta</p>
     </body>
 </html>
